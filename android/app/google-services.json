@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "939353532263",
+    "project_id": "deathnote-eviluci",
+    "storage_bucket": "deathnote-eviluci.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939353532263:android:70fd8a24109418081d71c2",
+        "android_client_info": {
+          "package_name": "com.eviluci.deathnote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpW6SUjYFdExftp54kmrqnLxaadrGJyks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
