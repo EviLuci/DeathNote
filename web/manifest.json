@@ -1,6 +1,6 @@
 {
-    "name": "deathnote",
-    "short_name": "deathnote",
+    "name": "mynotes",
+    "short_name": "mynotes",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
